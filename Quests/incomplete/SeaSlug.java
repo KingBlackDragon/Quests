@@ -1,0 +1,7 @@
+public class SeaSlug {
+
+    public static void main(String[] args) {
+        // Code goes here
+    }
+
+}

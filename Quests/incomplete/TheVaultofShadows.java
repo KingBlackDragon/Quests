@@ -1,0 +1,7 @@
+public class TheVaultofShadows {
+
+    public static void main(String[] args) {
+        // Code goes here
+    }
+
+}

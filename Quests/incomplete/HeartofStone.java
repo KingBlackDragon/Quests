@@ -1,0 +1,7 @@
+public class HeartofStone {
+
+    public static void main(String[] args) {
+        // Code goes here
+    }
+
+}

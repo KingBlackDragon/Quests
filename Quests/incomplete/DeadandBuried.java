@@ -1,0 +1,7 @@
+public class DeadandBuried {
+
+    public static void main(String[] args) {
+        // Code goes here
+    }
+
+}

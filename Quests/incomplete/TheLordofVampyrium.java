@@ -1,0 +1,7 @@
+public class TheLordofVampyrium {
+
+    public static void main(String[] args) {
+        // Code goes here
+    }
+
+}
